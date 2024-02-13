@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="name1">हैलो वर्ल्ड!</string>
+    <string name="name2">हेलो पॉली!</string>
+    <string name="name3">नमस्ते बद्री!</string>
+</resources>

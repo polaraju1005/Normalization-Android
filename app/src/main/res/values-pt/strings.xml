@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="name1">" Olá Mundo!"</string>
+    <string name="name2">" Olá Poli!"</string>
+    <string name="name3">Olá Badri!</string>
+</resources>
